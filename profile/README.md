@@ -1,8 +1,5 @@
 # Hi there 👋
 
-### We have a good idea and great motivation to make it happen.
-### New updates soon.
-# 🚀
 <!--
 
 **Here are some ideas to get you started:**
